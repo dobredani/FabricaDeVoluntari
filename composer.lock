@@ -1,0 +1,20 @@
+{
+	"packages": [
+		{
+			"name": "mongodb/mongodb",
+			"version": "1.4.2",
+			…
+			"require": {
+				"ext-hash": "*",
+				"ext-json": "*",
+				"ext-mongodb": "^1.5.0",
+				"php": ">=5.5"
+			}
+		},
+	],
+	"platform": {
+		"php": "~7.2",
+		"ext-mbstring": "*",
+		"ext-pq": "*"
+	}
+}
