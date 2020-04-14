@@ -1,7 +1,5 @@
 {
 	"require": {
-		"php": "~7.2",
-		"ext-mbstring": "*",
-		"mongodb/mongodb": "^1.4"
+		"php": "~7.4.3"
 	}
 }
